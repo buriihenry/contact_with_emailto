@@ -3,5 +3,3 @@
 
  Disclaimer
  ----------
- This file is provided "as is" with no expressed or implied warranty.
- The author accepts no liability if it causes any damage whatsoever.
